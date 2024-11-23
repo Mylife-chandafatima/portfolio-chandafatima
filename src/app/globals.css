@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* :root {
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -24,4 +24,26 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+} */
+
+
+
+
+
+/* .footer{
+  background-color: rgba(207, 166, 166, 0.11) ;
+  display: flex;
+  flex-direction:column ;
+  height: 250px;
+  justify-content: center;
+  gap:20px;
+} */
+
+
+.home{
+  width:500px;
+  height:300px;
 }
+
+
+
